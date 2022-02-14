@@ -1,2 +1,5 @@
 elastic-blast
 awscli
+pandas
+matplotlib
+seaborn
